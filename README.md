@@ -20,7 +20,7 @@ The lab is done on a Linux VM using Multipass & SSH from MacOS simulating a real
 ## 1. Linux File System
 Commands explored:
 bash
-pwd ![Sign into vm](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/e04f169e3c618c541ce1fce67da72f9b167dd262/Sign%20into%20vm.png)
+pwd [Sign into vm](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/e04f169e3c618c541ce1fce67da72f9b167dd262/Sign%20into%20vm.png)
 ls /
 ls /var/log
 
@@ -31,6 +31,7 @@ commands used
 created a user called clouduser
 - sudo adduser clouduser
 - sudo usermod -aG sudo clouduser
+- [file permission](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/80b7490acd8c551f2149034d75b80a8006206d6b/file.%20permission.png)
 
 # File Permissions
 File permissions are used to control who can access a file or directory and what they’re allowed to do with it. In Linux (and Unix-like systems), they are a core security and access-control mechanism.
