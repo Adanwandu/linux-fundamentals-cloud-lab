@@ -75,6 +75,7 @@ Step 2 — Set Up the User on VM
 sudo mkdir -p /home/clouduser/.ssh
 sudo chown clouduser:clouduser /home/clouduser/.ssh
 sudo chmod 600 /home/clouduser/.ssh
+[switch users](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/f170f758fe285e02baa1af15551596e16b21759d/switching%20document.png)
 
 Step 3 — Add Public Key
 Paste Mac public key into: /home/clouduser/.ssh/authorized_keys
