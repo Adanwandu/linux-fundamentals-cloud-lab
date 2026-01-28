@@ -20,7 +20,7 @@ The lab is done on a Linux VM using Multipass & SSH from MacOS simulating a real
 ## 1. Linux File System
 Commands explored:
 bash
-pwd ![SSH Login Success](screenshots/ssh-login.png)
+pwd ![Sign into vm](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/e04f169e3c618c541ce1fce67da72f9b167dd262/Sign%20into%20vm.png)
 ls /
 ls /var/log
 
