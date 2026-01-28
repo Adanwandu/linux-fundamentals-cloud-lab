@@ -23,6 +23,7 @@ bash
 pwd [Sign into vm](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/e04f169e3c618c541ce1fce67da72f9b167dd262/Sign%20into%20vm.png)
 ls /
 ls /var/log
+[pwd screenshot](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/e96ffce813c02424440152d0cab9092ee4cc81df/pwd%3Als.png)
 
 ## 2. Users & Permissions
 User Creation
