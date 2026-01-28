@@ -38,7 +38,7 @@ created a user called clouduser
 File permissions are used to control who can access a file or directory and what they’re allowed to do with it. In Linux (and Unix-like systems), they are a core security and access-control mechanism.
 
 commands used
--  touch testfile.txt
+-  touch testfile.txt [touch screenshots](https://github.com/Adanwandu/linux-fundamentals-cloud-lab/blob/ab22b8de77ec1075b128d59bc3a19f0b790ed88b/touch'ed%20file.png)
 - ls -l
 - chmod 700 testfile.txt
 - chown clouduser:clouduser testfile.txt
