@@ -1,4 +1,4 @@
-Network: 192.168.64.0/24
+## Networking
 
 172.20.10.10   → Host(MAC)
 192.168.64.8   → Load Balancer
